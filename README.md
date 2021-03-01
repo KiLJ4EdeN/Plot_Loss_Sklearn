@@ -1,2 +1,2 @@
 # Plot_Loss_Sklearn
-plot and print model activity using context manager
+plot and print sklearn classifier's activity using context manager
